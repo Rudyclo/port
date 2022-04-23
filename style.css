@@ -103,6 +103,18 @@ html{
     border-radius: 4%;
 }
 #intro{
+    background-color: #fff;
+    color: #333;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 10px;
+    margin-left: 0px;
+    margin-right:00px;
+    margin-top: 0px;
+    float: left;
+    
+
     display: flex;
     flex-direction: column;
     text-align: justify;
@@ -118,6 +130,7 @@ html{
     flex-direction: column;
     background-color: black;
     color: white;
+    
 
 }
 .gallery{
@@ -130,6 +143,7 @@ html{
     width: 500px;
     height: 270px;
     margin: 10px;
+    
 }
 /*Aboutp Section*/
 #aboutp{
